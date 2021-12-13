@@ -9,5 +9,4 @@ Hackintosh / Mac OS 12 EFI
 
 
 工作的：
-
 显卡，声卡，网卡，睡眠，USB。
