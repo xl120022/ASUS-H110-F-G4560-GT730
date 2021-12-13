@@ -1,5 +1,6 @@
 # ASUS-H110-F-G4560-GT730
-Hackintosh / Mac OS 12 EFI
+Hackintosh / Mac OS 12 EFI/OC0.7.4
+
 处理器(CPU) 英特尔 Pentium(奔腾) G4560 @ 3.50GHz 双核   
 主  板 华硕 H110M-F（100 Series/C230 Series 芯片组 Family - A143）   
 内  存 8 GB ( 金士顿 DDR4 2400MHz )   
